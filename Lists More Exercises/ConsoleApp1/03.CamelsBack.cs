@@ -15,6 +15,7 @@ class CamelsBack
             sequence.RemoveAt(0);
             sequence.RemoveAt(sequence.Count - 1);
             round++;
+            
         }
         if (round > 0)
         {
